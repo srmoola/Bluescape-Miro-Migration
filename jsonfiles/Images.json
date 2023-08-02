@@ -1,0 +1,84 @@
+{
+    "data": [
+        {
+            "asset": {
+                "imageFormat": "png",
+                "url": "https://s3.us-east-1.amazonaws.com/public-assets.bluescape.com/sessions/objects/IjQ19gMfrHfJRxfBL44f/64ca65b76809f195b261c1a3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYVAQ3ZCQORF7M7HT%2F20230802%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230802T184912Z&X-Amz-Expires=300&X-Amz-Signature=c0af2aba09c6c2dfa2dfdaa9c6eb7bb03fff38cf230728537e775d2a642bb580&X-Amz-SignedHeaders=host"
+            },
+            "attachments": [],
+            "boundingBox": {
+                "height": 1282,
+                "width": 2626,
+                "x": -5434.363265306147,
+                "y": 1933.9700680272126
+            },
+            "comments": [],
+            "filename": "Screenshot 2023-07-23 at 6.10.48 PM.png",
+            "height": 984,
+            "id": "64ca65b76809f195b261c1a3",
+            "ingestionState": "complete_success",
+            "pinned": false,
+            "preview": {
+                "imageFormat": "png",
+                "url": "https://s3.us-east-1.amazonaws.com/public-assets.bluescape.com/sessions/objects/IjQ19gMfrHfJRxfBL44f/64ca65b76809f195b261c1a3-11.PNG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYVAQ3ZCQORF7M7HT%2F20230802%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230802T184912Z&X-Amz-Expires=300&X-Amz-Signature=88a71c9a83bcb029881e74a12d0fb9bf54c11bb03367f397f658c2f96e62ca25&X-Amz-SignedHeaders=host"
+            },
+            "reactions": [],
+            "title": "Screenshot 2023-07-23 at 6.10.48 PM.png",
+            "transform": {
+                "origin": {
+                    "anchor": "top-left"
+                },
+                "rotateZ": 0,
+                "scaleX": 1.3025793650793651,
+                "scaleY": 1.3028455284552845,
+                "x": -5434.363265306147,
+                "y": 1933.9700680272126
+            },
+            "type": "Image",
+            "width": 2016,
+            "zIndex": 12
+        },
+        {
+            "asset": {
+                "imageFormat": "png",
+                "url": "https://s3.us-east-1.amazonaws.com/public-assets.bluescape.com/sessions/objects/IjQ19gMfrHfJRxfBL44f/64ca65b76809f195b261c1a3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYVAQ3ZCQORF7M7HT%2F20230802%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230802T184912Z&X-Amz-Expires=300&X-Amz-Signature=c0af2aba09c6c2dfa2dfdaa9c6eb7bb03fff38cf230728537e775d2a642bb580&X-Amz-SignedHeaders=host"
+            },
+            "attachments": [],
+            "boundingBox": {
+                "height": 1282,
+                "width": 2626,
+                "x": -14312.363265306147,
+                "y": 2380.9700680272126
+            },
+            "comments": [],
+            "filename": "Screenshot 2023-07-23 at 6.10.48 PM.png",
+            "height": 984,
+            "id": "64ca8d626809f195b261c1e4",
+            "ingestionState": "complete_success",
+            "pinned": false,
+            "preview": {
+                "imageFormat": "png",
+                "url": "https://s3.us-east-1.amazonaws.com/public-assets.bluescape.com/sessions/objects/IjQ19gMfrHfJRxfBL44f/64ca65b76809f195b261c1a3-11.PNG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYVAQ3ZCQORF7M7HT%2F20230802%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230802T184912Z&X-Amz-Expires=300&X-Amz-Signature=88a71c9a83bcb029881e74a12d0fb9bf54c11bb03367f397f658c2f96e62ca25&X-Amz-SignedHeaders=host"
+            },
+            "reactions": [],
+            "title": "Screenshot 2023-07-23 at 6.10.48 PM.png",
+            "traits": {
+                "http://bluescape.dev/compressed_history/v1/lastUpdatedActorId": "9ZuAd5XnKxu6ydWRtnrd",
+                "http://bluescape.dev/compressed_history/v1/lastUpdatedDatetime": 1690985920542
+            },
+            "transform": {
+                "origin": {
+                    "anchor": "top-left"
+                },
+                "rotateZ": 0,
+                "scaleX": 1.3025793650793651,
+                "scaleY": 1.3028455284552845,
+                "x": -14312.363265306147,
+                "y": 2380.9700680272126
+            },
+            "type": "Image",
+            "width": 2016,
+            "zIndex": 65
+        }
+    ]
+}

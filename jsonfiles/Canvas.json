@@ -1,0 +1,223 @@
+{
+    "data": [
+        {
+            "boundingBox": {
+                "height": 7199,
+                "width": 15683,
+                "x": 1004.8585034013631,
+                "y": -2611.1979591836716
+            },
+            "comments": [],
+            "id": "64c91b3f5e65d98133bb8805",
+            "isContentHidden": false,
+            "name": "Canvas 1",
+            "pinned": false,
+            "reactions": [],
+            "style": {
+                "borderColor": {
+                    "a": 0,
+                    "b": 0,
+                    "g": 0,
+                    "r": 0
+                },
+                "fillColor": {
+                    "a": 1,
+                    "b": 255,
+                    "g": 255,
+                    "r": 255
+                },
+                "height": 7199,
+                "showName": false,
+                "width": 15683
+            },
+            "transform": {
+                "origin": {
+                    "anchor": "top-left"
+                },
+                "rotateZ": 0,
+                "scaleX": 1,
+                "scaleY": 1,
+                "x": 1004.8585034013631,
+                "y": -2611.1979591836716
+            },
+            "type": "Canvas",
+            "zIndex": 1
+        },
+        {
+            "boundingBox": {
+                "height": 1000,
+                "width": 1000,
+                "x": 8204.858503401363,
+                "y": 987.8020408163284
+            },
+            "comments": [],
+            "id": "64ca895c408172b2090d061b",
+            "isContentHidden": false,
+            "name": "<SET_CANVAS_NAME>",
+            "pinned": false,
+            "reactions": [],
+            "style": {
+                "borderColor": {
+                    "a": 1,
+                    "b": 80,
+                    "g": 85,
+                    "r": 238
+                },
+                "fillColor": {
+                    "a": 0,
+                    "b": 0,
+                    "g": 0,
+                    "r": 0
+                },
+                "height": 1000,
+                "showName": false,
+                "width": 1000
+            },
+            "transform": {
+                "origin": {
+                    "anchor": "top-left"
+                },
+                "rotateZ": 0,
+                "scaleX": 1,
+                "scaleY": 1,
+                "x": 8204.858503401363,
+                "y": 987.8020408163284
+            },
+            "type": "Canvas",
+            "zIndex": 22
+        },
+        {
+            "boundingBox": {
+                "height": 1000,
+                "width": 1000,
+                "x": -1052.1591836734733,
+                "y": 261.7564625850355
+            },
+            "comments": [],
+            "id": "64ca8a454081723b900d0959",
+            "isContentHidden": false,
+            "name": "<SET_CANVAS_NAME>",
+            "pinned": false,
+            "reactions": [],
+            "style": {
+                "borderColor": {
+                    "a": 1,
+                    "b": 80,
+                    "g": 85,
+                    "r": 238
+                },
+                "fillColor": {
+                    "a": 0,
+                    "b": 0,
+                    "g": 0,
+                    "r": 0
+                },
+                "height": 1000,
+                "showName": false,
+                "width": 1000
+            },
+            "transform": {
+                "origin": {
+                    "anchor": "top-left"
+                },
+                "rotateZ": 0,
+                "scaleX": 1,
+                "scaleY": 1,
+                "x": -1052.1591836734733,
+                "y": 261.7564625850355
+            },
+            "type": "Canvas",
+            "zIndex": 59
+        },
+        {
+            "boundingBox": {
+                "height": 7199,
+                "width": 15683,
+                "x": -17431.17959183676,
+                "y": -2635.3238095238084
+            },
+            "comments": [],
+            "id": "64ca8d626809f195b261c1de",
+            "isContentHidden": false,
+            "name": "Canvas 1",
+            "pinned": false,
+            "reactions": [],
+            "style": {
+                "borderColor": {
+                    "a": 0,
+                    "b": 0,
+                    "g": 0,
+                    "r": 0
+                },
+                "fillColor": {
+                    "a": 1,
+                    "b": 255,
+                    "g": 255,
+                    "r": 255
+                },
+                "height": 7199,
+                "showName": false,
+                "width": 15683
+            },
+            "traits": {
+                "http://bluescape.dev/compressed_history/v1/lastUpdatedActorId": "9ZuAd5XnKxu6ydWRtnrd",
+                "http://bluescape.dev/compressed_history/v1/lastUpdatedDatetime": 1690993832615
+            },
+            "transform": {
+                "origin": {
+                    "anchor": "top-left"
+                },
+                "rotateZ": 0,
+                "scaleX": 1,
+                "scaleY": 1,
+                "x": -17431.17959183676,
+                "y": -2635.3238095238084
+            },
+            "type": "Canvas",
+            "zIndex": 59
+        },
+        {
+            "boundingBox": {
+                "height": 1000,
+                "width": 1000,
+                "x": -10231.17959183676,
+                "y": 963.6761904761916
+            },
+            "comments": [],
+            "id": "64ca8d626809f195b261c1ed",
+            "isContentHidden": false,
+            "name": "<SET_CANVAS_NAME>",
+            "pinned": false,
+            "reactions": [],
+            "style": {
+                "borderColor": {
+                    "a": 1,
+                    "b": 80,
+                    "g": 85,
+                    "r": 238
+                },
+                "fillColor": {
+                    "a": 0,
+                    "b": 0,
+                    "g": 0,
+                    "r": 0
+                },
+                "height": 1000,
+                "showName": false,
+                "width": 1000
+            },
+            "transform": {
+                "origin": {
+                    "anchor": "top-left"
+                },
+                "rotateZ": 0,
+                "scaleX": 1,
+                "scaleY": 1,
+                "x": -10231.17959183676,
+                "y": 963.6761904761916
+            },
+            "type": "Canvas",
+            "zIndex": 74
+        }
+    ]
+}

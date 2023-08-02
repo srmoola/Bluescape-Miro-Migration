@@ -1,0 +1,84 @@
+{
+    "data": [
+        {
+            "asset": {
+                "documentFormat": "pdf",
+                "url": "https://s3.us-east-1.amazonaws.com/public-assets.bluescape.com/sessions/objects/IjQ19gMfrHfJRxfBL44f/64c9c72c65746741fa4497e7.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYVAQ3ZCQORF7M7HT%2F20230802%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230802T184939Z&X-Amz-Expires=300&X-Amz-Signature=732bc738200d63b79685f3efee907ecb2aef6f68ded0e2d0a7b64aad06013c78&X-Amz-SignedHeaders=host"
+            },
+            "attachments": [],
+            "boundingBox": {
+                "height": 1642,
+                "width": 1642,
+                "x": 10518.858503401363,
+                "y": -1308.275510204082
+            },
+            "comments": [],
+            "filename": "Satyadev Moolagani .pdf",
+            "height": 1280,
+            "id": "64c9c72c65746741fa4497e7",
+            "ingestionState": "complete_success",
+            "pinned": false,
+            "preview": {
+                "imageFormat": "jpeg",
+                "url": "https://s3.us-east-1.amazonaws.com/public-assets.bluescape.com/sessions/objects/IjQ19gMfrHfJRxfBL44f/64c9c72c65746741fa4497e7_thumb.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYVAQ3ZCQORF7M7HT%2F20230802%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230802T184939Z&X-Amz-Expires=300&X-Amz-Signature=45ac32a877191d658bcf833a2a52586a8052e516ba50dfc8ecd0ff50310119df&X-Amz-SignedHeaders=host"
+            },
+            "reactions": [],
+            "title": "Satyadev Moolagani .pdf",
+            "transform": {
+                "origin": {
+                    "anchor": "top-left"
+                },
+                "rotateZ": 0,
+                "scaleX": 1.660262891809909,
+                "scaleY": 1.2828125,
+                "x": 10518.858503401363,
+                "y": -1308.275510204082
+            },
+            "type": "Document",
+            "width": 989,
+            "zIndex": 10
+        },
+        {
+            "asset": {
+                "documentFormat": "pdf",
+                "url": "https://s3.us-east-1.amazonaws.com/public-assets.bluescape.com/sessions/objects/IjQ19gMfrHfJRxfBL44f/64c9c72c65746741fa4497e7.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYVAQ3ZCQORF7M7HT%2F20230802%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230802T184939Z&X-Amz-Expires=300&X-Amz-Signature=732bc738200d63b79685f3efee907ecb2aef6f68ded0e2d0a7b64aad06013c78&X-Amz-SignedHeaders=host"
+            },
+            "attachments": [],
+            "boundingBox": {
+                "height": 1642,
+                "width": 1642,
+                "x": -7917.179591836761,
+                "y": -1332.4013605442187
+            },
+            "comments": [],
+            "filename": "Satyadev Moolagani .pdf",
+            "height": 1280,
+            "id": "64ca8d626809f195b261c1e2",
+            "ingestionState": "complete_success",
+            "pinned": false,
+            "preview": {
+                "imageFormat": "jpeg",
+                "url": "https://s3.us-east-1.amazonaws.com/public-assets.bluescape.com/sessions/objects/IjQ19gMfrHfJRxfBL44f/64c9c72c65746741fa4497e7_64ca8d626809f195b261c1e2_thumb.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYVAQ3ZCQORF7M7HT%2F20230802%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230802T184939Z&X-Amz-Expires=300&X-Amz-Signature=3bada25bfa955d3634631c6043f5fa27a8320ad0b8846f48e481ed38cb6a29c5&X-Amz-SignedHeaders=host"
+            },
+            "reactions": [],
+            "title": "Satyadev Moolagani .pdf",
+            "traits": {
+                "http://bluescape.dev/compressed_history/v1/lastUpdatedActorId": "9ZuAd5XnKxu6ydWRtnrd",
+                "http://bluescape.dev/compressed_history/v1/lastUpdatedDatetime": 1690945328934
+            },
+            "transform": {
+                "origin": {
+                    "anchor": "top-left"
+                },
+                "rotateZ": 0,
+                "scaleX": 1.660262891809909,
+                "scaleY": 1.2828125,
+                "x": -7917.179591836761,
+                "y": -1332.4013605442187
+            },
+            "type": "Document",
+            "width": 989,
+            "zIndex": 63
+        }
+    ]
+}

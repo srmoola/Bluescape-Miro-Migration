@@ -1,0 +1,1054 @@
+{
+    "data": [
+        {
+            "aspectRatioFixed": false,
+            "attachments": [],
+            "boundingBox": {
+                "height": 1834.7551020408155,
+                "width": 4681,
+                "x": 9482.749659863952,
+                "y": 1854.8020408163284
+            },
+            "comments": [],
+            "id": "64ca65886809f195b261c197",
+            "kind": "triangle-up",
+            "mirrorX": false,
+            "mirrorY": false,
+            "pinned": false,
+            "reactions": [],
+            "style": {
+                "fillColor": {
+                    "a": 0,
+                    "b": 0,
+                    "g": 0,
+                    "r": 0
+                },
+                "height": 1834.7551020408155,
+                "strokeColor": {
+                    "a": 1,
+                    "b": 42,
+                    "g": 37,
+                    "r": 32
+                },
+                "strokeWidth": 8,
+                "width": 4681
+            },
+            "textStyle": {
+                "color": {
+                    "a": 1,
+                    "b": 255,
+                    "g": 255,
+                    "r": 255
+                },
+                "fontFamily": "Noto Sans",
+                "fontSize": "auto",
+                "verticalAlign": "center"
+            },
+            "transform": {
+                "origin": {
+                    "anchor": "top-left"
+                },
+                "rotateZ": 0,
+                "scaleX": 1,
+                "scaleY": 1,
+                "x": 9482.749659863952,
+                "y": 1854.8020408163284
+            },
+            "type": "Shape",
+            "zIndex": 11
+        },
+        {
+            "aspectRatioFixed": false,
+            "attachments": [],
+            "boundingBox": {
+                "height": 600,
+                "width": 600,
+                "x": 7794.722448979595,
+                "y": 1854.006122448981
+            },
+            "comments": [],
+            "id": "64ca7af06809f195b261c1aa",
+            "kind": "rectangle",
+            "mirrorX": false,
+            "mirrorY": false,
+            "pinned": false,
+            "reactions": [],
+            "style": {
+                "fillColor": {
+                    "a": 1,
+                    "b": 110,
+                    "g": 110,
+                    "r": 255
+                },
+                "height": 600,
+                "strokeColor": {
+                    "a": 1,
+                    "b": 42,
+                    "g": 37,
+                    "r": 32
+                },
+                "strokeWidth": 8,
+                "width": 600
+            },
+            "textStyle": {
+                "color": {
+                    "a": 1,
+                    "b": 255,
+                    "g": 255,
+                    "r": 255
+                },
+                "fontFamily": "Noto Sans",
+                "fontSize": "auto",
+                "verticalAlign": "center"
+            },
+            "transform": {
+                "origin": {
+                    "anchor": "top-left"
+                },
+                "rotateZ": 0,
+                "scaleX": 1,
+                "scaleY": 1,
+                "x": 7794.722448979595,
+                "y": 1854.006122448981
+            },
+            "type": "Shape",
+            "zIndex": 14
+        },
+        {
+            "aspectRatioFixed": false,
+            "attachments": [],
+            "boundingBox": {
+                "height": 1882,
+                "width": 1869,
+                "x": 13439.858503401363,
+                "y": 419.679591836737
+            },
+            "comments": [],
+            "id": "64ca81c76809f195b261c1ae",
+            "kind": "triangle-right",
+            "mirrorX": false,
+            "mirrorY": false,
+            "pinned": false,
+            "reactions": [],
+            "style": {
+                "fillColor": {
+                    "a": 1,
+                    "b": 110,
+                    "g": 110,
+                    "r": 255
+                },
+                "height": 1882,
+                "strokeColor": {
+                    "a": 1,
+                    "b": 42,
+                    "g": 37,
+                    "r": 32
+                },
+                "strokeWidth": 8,
+                "width": 1869
+            },
+            "textStyle": {
+                "color": {
+                    "a": 1,
+                    "b": 255,
+                    "g": 255,
+                    "r": 255
+                },
+                "fontFamily": "Noto Sans",
+                "fontSize": "auto",
+                "verticalAlign": "center"
+            },
+            "transform": {
+                "origin": {
+                    "anchor": "top-left"
+                },
+                "rotateZ": 0,
+                "scaleX": 1,
+                "scaleY": 1,
+                "x": 13439.858503401363,
+                "y": 419.679591836737
+            },
+            "type": "Shape",
+            "zIndex": 15
+        },
+        {
+            "aspectRatioFixed": false,
+            "attachments": [],
+            "boundingBox": {
+                "height": 1642,
+                "width": 1324,
+                "x": 12837.858503401363,
+                "y": -1906.1979591836716
+            },
+            "comments": [],
+            "id": "64ca81d56809f195b261c1b0",
+            "kind": "arrow-up",
+            "mirrorX": false,
+            "mirrorY": false,
+            "pinned": false,
+            "reactions": [],
+            "style": {
+                "fillColor": {
+                    "a": 1,
+                    "b": 110,
+                    "g": 110,
+                    "r": 255
+                },
+                "height": 1642,
+                "strokeColor": {
+                    "a": 1,
+                    "b": 42,
+                    "g": 37,
+                    "r": 32
+                },
+                "strokeWidth": 8,
+                "width": 1324
+            },
+            "textStyle": {
+                "color": {
+                    "a": 1,
+                    "b": 255,
+                    "g": 255,
+                    "r": 255
+                },
+                "fontFamily": "Noto Sans",
+                "fontSize": "auto",
+                "verticalAlign": "center"
+            },
+            "transform": {
+                "origin": {
+                    "anchor": "top-left"
+                },
+                "rotateZ": 0,
+                "scaleX": 1,
+                "scaleY": 1,
+                "x": 12837.858503401363,
+                "y": -1906.1979591836716
+            },
+            "type": "Shape",
+            "zIndex": 16
+        },
+        {
+            "aspectRatioFixed": false,
+            "attachments": [],
+            "boundingBox": {
+                "height": 1024,
+                "width": 1045,
+                "x": 7045.858503401363,
+                "y": -1389.1979591836716
+            },
+            "comments": [],
+            "id": "64ca81e86809f195b261c1b2",
+            "kind": "star-5",
+            "mirrorX": false,
+            "mirrorY": false,
+            "pinned": false,
+            "reactions": [],
+            "style": {
+                "fillColor": {
+                    "a": 1,
+                    "b": 110,
+                    "g": 110,
+                    "r": 255
+                },
+                "height": 1024,
+                "strokeColor": {
+                    "a": 1,
+                    "b": 42,
+                    "g": 37,
+                    "r": 32
+                },
+                "strokeWidth": 8,
+                "width": 1045
+            },
+            "textStyle": {
+                "color": {
+                    "a": 1,
+                    "b": 255,
+                    "g": 255,
+                    "r": 255
+                },
+                "fontFamily": "Noto Sans",
+                "fontSize": "auto",
+                "verticalAlign": "center"
+            },
+            "transform": {
+                "origin": {
+                    "anchor": "top-left"
+                },
+                "rotateZ": 0,
+                "scaleX": 1,
+                "scaleY": 1,
+                "x": 7045.858503401363,
+                "y": -1389.1979591836716
+            },
+            "type": "Shape",
+            "zIndex": 17
+        },
+        {
+            "aspectRatioFixed": false,
+            "attachments": [],
+            "boundingBox": {
+                "height": 902,
+                "width": 710,
+                "x": -3830.1795918367607,
+                "y": -1348.7591836734682
+            },
+            "comments": [],
+            "id": "64ca81f26809f195b261c1b5",
+            "kind": "arrow-right",
+            "mirrorX": false,
+            "mirrorY": false,
+            "pinned": false,
+            "reactions": [],
+            "style": {
+                "fillColor": {
+                    "a": 1,
+                    "b": 110,
+                    "g": 110,
+                    "r": 255
+                },
+                "height": 902,
+                "strokeColor": {
+                    "a": 1,
+                    "b": 42,
+                    "g": 37,
+                    "r": 32
+                },
+                "strokeWidth": 8,
+                "width": 710
+            },
+            "textStyle": {
+                "color": {
+                    "a": 1,
+                    "b": 255,
+                    "g": 255,
+                    "r": 255
+                },
+                "fontFamily": "Noto Sans",
+                "fontSize": "auto",
+                "verticalAlign": "center"
+            },
+            "transform": {
+                "origin": {
+                    "anchor": "top-left"
+                },
+                "rotateZ": 0,
+                "scaleX": 1,
+                "scaleY": 1,
+                "x": -3830.1795918367607,
+                "y": -1348.7591836734682
+            },
+            "type": "Shape",
+            "zIndex": 18
+        },
+        {
+            "aspectRatioFixed": false,
+            "attachments": [],
+            "boundingBox": {
+                "height": 600,
+                "width": 600,
+                "x": 9418.858503401363,
+                "y": 992.8020408163284
+            },
+            "comments": [],
+            "id": "64ca81fc6809f195b261c1b7",
+            "kind": "arrow-left-right",
+            "mirrorX": false,
+            "mirrorY": false,
+            "pinned": false,
+            "reactions": [],
+            "style": {
+                "fillColor": {
+                    "a": 1,
+                    "b": 110,
+                    "g": 110,
+                    "r": 255
+                },
+                "height": 600,
+                "strokeColor": {
+                    "a": 1,
+                    "b": 42,
+                    "g": 37,
+                    "r": 32
+                },
+                "strokeWidth": 8,
+                "width": 600
+            },
+            "textStyle": {
+                "color": {
+                    "a": 1,
+                    "b": 255,
+                    "g": 255,
+                    "r": 255
+                },
+                "fontFamily": "Noto Sans",
+                "fontSize": "auto",
+                "verticalAlign": "center"
+            },
+            "transform": {
+                "origin": {
+                    "anchor": "top-left"
+                },
+                "rotateZ": 0,
+                "scaleX": 1,
+                "scaleY": 1,
+                "x": 9418.858503401363,
+                "y": 992.8020408163284
+            },
+            "type": "Shape",
+            "zIndex": 19
+        },
+        {
+            "aspectRatioFixed": false,
+            "attachments": [],
+            "boundingBox": {
+                "height": 600,
+                "width": 600,
+                "x": 8694.858503401363,
+                "y": -1990.1979591836716
+            },
+            "comments": [],
+            "id": "64ca82056809f195b261c1b8",
+            "kind": "octagon",
+            "mirrorX": false,
+            "mirrorY": false,
+            "pinned": false,
+            "reactions": [],
+            "style": {
+                "fillColor": {
+                    "a": 1,
+                    "b": 110,
+                    "g": 110,
+                    "r": 255
+                },
+                "height": 600,
+                "strokeColor": {
+                    "a": 1,
+                    "b": 42,
+                    "g": 37,
+                    "r": 32
+                },
+                "strokeWidth": 8,
+                "width": 600
+            },
+            "textStyle": {
+                "color": {
+                    "a": 1,
+                    "b": 255,
+                    "g": 255,
+                    "r": 255
+                },
+                "fontFamily": "Noto Sans",
+                "fontSize": "auto",
+                "verticalAlign": "center"
+            },
+            "transform": {
+                "origin": {
+                    "anchor": "top-left"
+                },
+                "rotateZ": 0,
+                "scaleX": 1,
+                "scaleY": 1,
+                "x": 8694.858503401363,
+                "y": -1990.1979591836716
+            },
+            "type": "Shape",
+            "zIndex": 20
+        },
+        {
+            "aspectRatioFixed": false,
+            "attachments": [],
+            "boundingBox": {
+                "height": 600,
+                "width": 693,
+                "x": 6668.858503401363,
+                "y": -2292.1979591836716
+            },
+            "comments": [],
+            "id": "64ca820c6809f195b261c1b9",
+            "kind": "hexagon",
+            "mirrorX": false,
+            "mirrorY": false,
+            "pinned": false,
+            "reactions": [],
+            "style": {
+                "fillColor": {
+                    "a": 1,
+                    "b": 110,
+                    "g": 110,
+                    "r": 255
+                },
+                "height": 600,
+                "strokeColor": {
+                    "a": 1,
+                    "b": 42,
+                    "g": 37,
+                    "r": 32
+                },
+                "strokeWidth": 8,
+                "width": 693
+            },
+            "textStyle": {
+                "color": {
+                    "a": 1,
+                    "b": 255,
+                    "g": 255,
+                    "r": 255
+                },
+                "fontFamily": "Noto Sans",
+                "fontSize": "auto",
+                "verticalAlign": "center"
+            },
+            "transform": {
+                "origin": {
+                    "anchor": "top-left"
+                },
+                "rotateZ": 0,
+                "scaleX": 1,
+                "scaleY": 1,
+                "x": 6668.858503401363,
+                "y": -2292.1979591836716
+            },
+            "type": "Shape",
+            "zIndex": 21
+        },
+        {
+            "aspectRatioFixed": false,
+            "attachments": [],
+            "boundingBox": {
+                "height": 1834.7551020408155,
+                "width": 4681,
+                "x": -8953.288435374172,
+                "y": 1830.6761904761916
+            },
+            "comments": [],
+            "id": "64ca8d626809f195b261c1e3",
+            "kind": "triangle-up",
+            "mirrorX": false,
+            "mirrorY": false,
+            "pinned": false,
+            "reactions": [],
+            "style": {
+                "fillColor": {
+                    "a": 0,
+                    "b": 0,
+                    "g": 0,
+                    "r": 0
+                },
+                "height": 1834.7551020408155,
+                "strokeColor": {
+                    "a": 1,
+                    "b": 42,
+                    "g": 37,
+                    "r": 32
+                },
+                "strokeWidth": 8,
+                "width": 4681
+            },
+            "textStyle": {
+                "color": {
+                    "a": 1,
+                    "b": 255,
+                    "g": 255,
+                    "r": 255
+                },
+                "fontFamily": "Noto Sans",
+                "fontSize": "auto",
+                "verticalAlign": "center"
+            },
+            "traits": {
+                "http://bluescape.dev/compressed_history/v1/lastUpdatedActorId": "9ZuAd5XnKxu6ydWRtnrd",
+                "http://bluescape.dev/compressed_history/v1/lastUpdatedDatetime": 1690992105774
+            },
+            "transform": {
+                "origin": {
+                    "anchor": "top-left"
+                },
+                "rotateZ": 0,
+                "scaleX": 1,
+                "scaleY": 1,
+                "x": -8953.288435374172,
+                "y": 1830.6761904761916
+            },
+            "type": "Shape",
+            "zIndex": 64
+        },
+        {
+            "aspectRatioFixed": false,
+            "attachments": [],
+            "boundingBox": {
+                "height": 600,
+                "width": 600,
+                "x": -10641.315646258528,
+                "y": 1829.880272108844
+            },
+            "comments": [],
+            "id": "64ca8d626809f195b261c1e5",
+            "kind": "rectangle",
+            "mirrorX": false,
+            "mirrorY": false,
+            "pinned": false,
+            "reactions": [],
+            "style": {
+                "fillColor": {
+                    "a": 1,
+                    "b": 110,
+                    "g": 110,
+                    "r": 255
+                },
+                "height": 600,
+                "strokeColor": {
+                    "a": 1,
+                    "b": 42,
+                    "g": 37,
+                    "r": 32
+                },
+                "strokeWidth": 8,
+                "width": 600
+            },
+            "textStyle": {
+                "color": {
+                    "a": 1,
+                    "b": 255,
+                    "g": 255,
+                    "r": 255
+                },
+                "fontFamily": "Noto Sans",
+                "fontSize": "auto",
+                "verticalAlign": "center"
+            },
+            "traits": {
+                "http://bluescape.dev/compressed_history/v1/lastUpdatedActorId": "9ZuAd5XnKxu6ydWRtnrd",
+                "http://bluescape.dev/compressed_history/v1/lastUpdatedDatetime": 1690991588088
+            },
+            "transform": {
+                "origin": {
+                    "anchor": "top-left"
+                },
+                "rotateZ": 0,
+                "scaleX": 1,
+                "scaleY": 1,
+                "x": -10641.315646258528,
+                "y": 1829.880272108844
+            },
+            "type": "Shape",
+            "zIndex": 66
+        },
+        {
+            "aspectRatioFixed": false,
+            "attachments": [],
+            "boundingBox": {
+                "height": 1882,
+                "width": 1869,
+                "x": -4993.371428571423,
+                "y": 375.5891156462603
+            },
+            "comments": [],
+            "id": "64ca8d626809f195b261c1e6",
+            "kind": "triangle-right",
+            "mirrorX": false,
+            "mirrorY": false,
+            "pinned": false,
+            "reactions": [],
+            "style": {
+                "fillColor": {
+                    "a": 1,
+                    "b": 255,
+                    "g": 142,
+                    "r": 51
+                },
+                "height": 1882,
+                "strokeColor": {
+                    "a": 1,
+                    "b": 42,
+                    "g": 37,
+                    "r": 32
+                },
+                "strokeWidth": 8,
+                "width": 1869
+            },
+            "textStyle": {
+                "color": {
+                    "a": 1,
+                    "b": 255,
+                    "g": 255,
+                    "r": 255
+                },
+                "fontFamily": "Noto Sans",
+                "fontSize": "auto",
+                "verticalAlign": "center"
+            },
+            "traits": {
+                "http://bluescape.dev/compressed_history/v1/lastUpdatedActorId": "9ZuAd5XnKxu6ydWRtnrd",
+                "http://bluescape.dev/compressed_history/v1/lastUpdatedDatetime": 1690993098766
+            },
+            "transform": {
+                "origin": {
+                    "anchor": "top-left"
+                },
+                "rotateZ": 0,
+                "scaleX": 1,
+                "scaleY": 1,
+                "x": -4993.371428571423,
+                "y": 375.5891156462603
+            },
+            "type": "Shape",
+            "zIndex": 67
+        },
+        {
+            "aspectRatioFixed": false,
+            "attachments": [],
+            "boundingBox": {
+                "height": 1642,
+                "width": 1324,
+                "x": -5598.179591836761,
+                "y": -1930.3238095238084
+            },
+            "comments": [],
+            "id": "64ca8d626809f195b261c1e7",
+            "kind": "arrow-up",
+            "mirrorX": false,
+            "mirrorY": false,
+            "pinned": false,
+            "reactions": [],
+            "style": {
+                "fillColor": {
+                    "a": 1,
+                    "b": 110,
+                    "g": 110,
+                    "r": 255
+                },
+                "height": 1642,
+                "strokeColor": {
+                    "a": 1,
+                    "b": 42,
+                    "g": 37,
+                    "r": 32
+                },
+                "strokeWidth": 8,
+                "width": 1324
+            },
+            "textStyle": {
+                "color": {
+                    "a": 1,
+                    "b": 255,
+                    "g": 255,
+                    "r": 255
+                },
+                "fontFamily": "Noto Sans",
+                "fontSize": "auto",
+                "verticalAlign": "center"
+            },
+            "traits": {
+                "http://bluescape.dev/compressed_history/v1/lastUpdatedActorId": "9ZuAd5XnKxu6ydWRtnrd",
+                "http://bluescape.dev/compressed_history/v1/lastUpdatedDatetime": 1690993111211
+            },
+            "transform": {
+                "origin": {
+                    "anchor": "top-left"
+                },
+                "rotateZ": 0,
+                "scaleX": 1,
+                "scaleY": 1,
+                "x": -5598.179591836761,
+                "y": -1930.3238095238084
+            },
+            "type": "Shape",
+            "zIndex": 68
+        },
+        {
+            "aspectRatioFixed": false,
+            "attachments": [],
+            "boundingBox": {
+                "height": 1024,
+                "width": 1045,
+                "x": -11390.17959183676,
+                "y": -1413.3238095238084
+            },
+            "comments": [],
+            "id": "64ca8d626809f195b261c1e8",
+            "kind": "star-5",
+            "mirrorX": false,
+            "mirrorY": false,
+            "pinned": false,
+            "reactions": [],
+            "style": {
+                "fillColor": {
+                    "a": 1,
+                    "b": 110,
+                    "g": 110,
+                    "r": 255
+                },
+                "height": 1024,
+                "strokeColor": {
+                    "a": 1,
+                    "b": 42,
+                    "g": 37,
+                    "r": 32
+                },
+                "strokeWidth": 8,
+                "width": 1045
+            },
+            "textStyle": {
+                "color": {
+                    "a": 1,
+                    "b": 255,
+                    "g": 255,
+                    "r": 255
+                },
+                "fontFamily": "Noto Sans",
+                "fontSize": "auto",
+                "verticalAlign": "center"
+            },
+            "traits": {
+                "http://bluescape.dev/compressed_history/v1/lastUpdatedActorId": "9ZuAd5XnKxu6ydWRtnrd",
+                "http://bluescape.dev/compressed_history/v1/lastUpdatedDatetime": 1690993131985
+            },
+            "transform": {
+                "origin": {
+                    "anchor": "top-left"
+                },
+                "rotateZ": 0,
+                "scaleX": 1,
+                "scaleY": 1,
+                "x": -11390.17959183676,
+                "y": -1413.3238095238084
+            },
+            "type": "Shape",
+            "zIndex": 69
+        },
+        {
+            "aspectRatioFixed": false,
+            "attachments": [],
+            "boundingBox": {
+                "height": 902,
+                "width": 710,
+                "x": -12708.17959183676,
+                "y": -901.7591836734682
+            },
+            "comments": [],
+            "id": "64ca8d626809f195b261c1e9",
+            "kind": "arrow-right",
+            "mirrorX": false,
+            "mirrorY": false,
+            "pinned": false,
+            "reactions": [],
+            "style": {
+                "fillColor": {
+                    "a": 1,
+                    "b": 110,
+                    "g": 110,
+                    "r": 255
+                },
+                "height": 902,
+                "strokeColor": {
+                    "a": 1,
+                    "b": 42,
+                    "g": 37,
+                    "r": 32
+                },
+                "strokeWidth": 8,
+                "width": 710
+            },
+            "textStyle": {
+                "color": {
+                    "a": 1,
+                    "b": 255,
+                    "g": 255,
+                    "r": 255
+                },
+                "fontFamily": "Noto Sans",
+                "fontSize": "auto",
+                "verticalAlign": "center"
+            },
+            "traits": {
+                "http://bluescape.dev/compressed_history/v1/lastUpdatedActorId": "9ZuAd5XnKxu6ydWRtnrd",
+                "http://bluescape.dev/compressed_history/v1/lastUpdatedDatetime": 1690993140904
+            },
+            "transform": {
+                "origin": {
+                    "anchor": "top-left"
+                },
+                "rotateZ": 0,
+                "scaleX": 1,
+                "scaleY": 1,
+                "x": -12708.17959183676,
+                "y": -901.7591836734682
+            },
+            "type": "Shape",
+            "zIndex": 70
+        },
+        {
+            "aspectRatioFixed": false,
+            "attachments": [],
+            "boundingBox": {
+                "height": 600,
+                "width": 600,
+                "x": -9017.17959183676,
+                "y": 968.6761904761916
+            },
+            "comments": [],
+            "id": "64ca8d626809f195b261c1ea",
+            "kind": "arrow-left-right",
+            "mirrorX": false,
+            "mirrorY": false,
+            "pinned": false,
+            "reactions": [],
+            "style": {
+                "fillColor": {
+                    "a": 1,
+                    "b": 110,
+                    "g": 110,
+                    "r": 255
+                },
+                "height": 600,
+                "strokeColor": {
+                    "a": 1,
+                    "b": 42,
+                    "g": 37,
+                    "r": 32
+                },
+                "strokeWidth": 8,
+                "width": 600
+            },
+            "textStyle": {
+                "color": {
+                    "a": 1,
+                    "b": 255,
+                    "g": 255,
+                    "r": 255
+                },
+                "fontFamily": "Noto Sans",
+                "fontSize": "auto",
+                "verticalAlign": "center"
+            },
+            "transform": {
+                "origin": {
+                    "anchor": "top-left"
+                },
+                "rotateZ": 0,
+                "scaleX": 1,
+                "scaleY": 1,
+                "x": -9017.17959183676,
+                "y": 968.6761904761916
+            },
+            "type": "Shape",
+            "zIndex": 71
+        },
+        {
+            "aspectRatioFixed": false,
+            "attachments": [],
+            "boundingBox": {
+                "height": 600,
+                "width": 600,
+                "x": -9724.123809523799,
+                "y": -2018.8136054421793
+            },
+            "comments": [],
+            "id": "64ca8d626809f195b261c1eb",
+            "kind": "octagon",
+            "mirrorX": false,
+            "mirrorY": false,
+            "pinned": false,
+            "reactions": [],
+            "style": {
+                "fillColor": {
+                    "a": 1,
+                    "b": 255,
+                    "g": 142,
+                    "r": 51
+                },
+                "height": 600,
+                "strokeColor": {
+                    "a": 1,
+                    "b": 42,
+                    "g": 37,
+                    "r": 32
+                },
+                "strokeWidth": 8,
+                "width": 600
+            },
+            "textStyle": {
+                "color": {
+                    "a": 1,
+                    "b": 255,
+                    "g": 255,
+                    "r": 255
+                },
+                "fontFamily": "Noto Sans",
+                "fontSize": "auto",
+                "verticalAlign": "center"
+            },
+            "transform": {
+                "origin": {
+                    "anchor": "top-left"
+                },
+                "rotateZ": 0,
+                "scaleX": 1,
+                "scaleY": 1,
+                "x": -9724.123809523799,
+                "y": -2018.8136054421793
+            },
+            "type": "Shape",
+            "zIndex": 72
+        },
+        {
+            "aspectRatioFixed": false,
+            "attachments": [],
+            "boundingBox": {
+                "height": 600,
+                "width": 693,
+                "x": -11767.17959183676,
+                "y": -2316.3238095238084
+            },
+            "comments": [],
+            "id": "64ca8d626809f195b261c1ec",
+            "kind": "hexagon",
+            "mirrorX": false,
+            "mirrorY": false,
+            "pinned": false,
+            "reactions": [],
+            "style": {
+                "fillColor": {
+                    "a": 1,
+                    "b": 110,
+                    "g": 110,
+                    "r": 255
+                },
+                "height": 600,
+                "strokeColor": {
+                    "a": 1,
+                    "b": 42,
+                    "g": 37,
+                    "r": 32
+                },
+                "strokeWidth": 8,
+                "width": 693
+            },
+            "textStyle": {
+                "color": {
+                    "a": 1,
+                    "b": 255,
+                    "g": 255,
+                    "r": 255
+                },
+                "fontFamily": "Noto Sans",
+                "fontSize": "auto",
+                "verticalAlign": "center"
+            },
+            "transform": {
+                "origin": {
+                    "anchor": "top-left"
+                },
+                "rotateZ": 0,
+                "scaleX": 1,
+                "scaleY": 1,
+                "x": -11767.17959183676,
+                "y": -2316.3238095238084
+            },
+            "type": "Shape",
+            "zIndex": 73
+        }
+    ]
+}

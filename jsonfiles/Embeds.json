@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "attachments": [],
+            "boundingBox": {
+                "height": 2233,
+                "width": 3255,
+                "x": 2349.3333333333358,
+                "y": -50.201360544218915
+            },
+            "comments": [],
+            "id": "64c9c6e765746741fa4497e4",
+            "pinned": false,
+            "reactions": [],
+            "style": {
+                "frameless": false,
+                "height": 686,
+                "width": 1000
+            },
+            "transform": {
+                "origin": {
+                    "anchor": "top-left"
+                },
+                "rotateZ": 0,
+                "scaleX": 3.255,
+                "scaleY": 3.2551020408163267,
+                "x": 2349.3333333333358,
+                "y": -50.201360544218915
+            },
+            "type": "Browser",
+            "url": "https://docs.google.com/document/d/1T_RInescT8rUCV_DFvgTAy0Y_fdSsAjQHzFiaBro_J8/edit?usp=drive_web",
+            "zIndex": 9
+        },
+        {
+            "attachments": [],
+            "boundingBox": {
+                "height": 2233,
+                "width": 3255,
+                "x": -16263.79319727891,
+                "y": -780.1278911564623
+            },
+            "comments": [],
+            "id": "64ca8d626809f195b261c1e1",
+            "pinned": false,
+            "reactions": [],
+            "style": {
+                "frameless": false,
+                "height": 686,
+                "width": 1000
+            },
+            "traits": {
+                "http://bluescape.dev/compressed_history/v1/lastUpdatedActorId": "9ZuAd5XnKxu6ydWRtnrd",
+                "http://bluescape.dev/compressed_history/v1/lastUpdatedDatetime": 1690985928800
+            },
+            "transform": {
+                "origin": {
+                    "anchor": "top-left"
+                },
+                "rotateZ": 0,
+                "scaleX": 3.255,
+                "scaleY": 3.2551020408163267,
+                "x": -16263.79319727891,
+                "y": -780.1278911564623
+            },
+            "type": "Browser",
+            "url": "https://docs.google.com/document/d/1T_RInescT8rUCV_DFvgTAy0Y_fdSsAjQHzFiaBro_J8/edit?usp=drive_web",
+            "zIndex": 62
+        }
+    ]
+}

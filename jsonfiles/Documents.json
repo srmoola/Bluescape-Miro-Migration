@@ -3,7 +3,7 @@
         {
             "asset": {
                 "documentFormat": "pdf",
-                "url": "https://s3.us-east-1.amazonaws.com/public-assets.bluescape.com/sessions/objects/IjQ19gMfrHfJRxfBL44f/64c9c72c65746741fa4497e7.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYVAQ3ZCQORF7M7HT%2F20230802%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230802T184939Z&X-Amz-Expires=300&X-Amz-Signature=732bc738200d63b79685f3efee907ecb2aef6f68ded0e2d0a7b64aad06013c78&X-Amz-SignedHeaders=host"
+                "url": "https://s3.us-east-1.amazonaws.com/public-assets.bluescape.com/sessions/objects/IjQ19gMfrHfJRxfBL44f/64c9c72c65746741fa4497e7.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYVAQ3ZCQORF7M7HT%2F20230803%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230803T183324Z&X-Amz-Expires=300&X-Amz-Signature=f901edf9611365e5c6e6e2ce270f7fd1345e56c43cfa173db5d2b4ca91ca33e8&X-Amz-SignedHeaders=host"
             },
             "attachments": [],
             "boundingBox": {
@@ -20,7 +20,7 @@
             "pinned": false,
             "preview": {
                 "imageFormat": "jpeg",
-                "url": "https://s3.us-east-1.amazonaws.com/public-assets.bluescape.com/sessions/objects/IjQ19gMfrHfJRxfBL44f/64c9c72c65746741fa4497e7_thumb.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYVAQ3ZCQORF7M7HT%2F20230802%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230802T184939Z&X-Amz-Expires=300&X-Amz-Signature=45ac32a877191d658bcf833a2a52586a8052e516ba50dfc8ecd0ff50310119df&X-Amz-SignedHeaders=host"
+                "url": "https://s3.us-east-1.amazonaws.com/public-assets.bluescape.com/sessions/objects/IjQ19gMfrHfJRxfBL44f/64c9c72c65746741fa4497e7_thumb.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYVAQ3ZCQORF7M7HT%2F20230803%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230803T183324Z&X-Amz-Expires=300&X-Amz-Signature=a6e2dab3d36ca3def4f47d1d1395d172f51a19aea4c7fe64cfc4955431d7cdf9&X-Amz-SignedHeaders=host"
             },
             "reactions": [],
             "title": "Satyadev Moolagani .pdf",
@@ -41,7 +41,7 @@
         {
             "asset": {
                 "documentFormat": "pdf",
-                "url": "https://s3.us-east-1.amazonaws.com/public-assets.bluescape.com/sessions/objects/IjQ19gMfrHfJRxfBL44f/64c9c72c65746741fa4497e7.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYVAQ3ZCQORF7M7HT%2F20230802%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230802T184939Z&X-Amz-Expires=300&X-Amz-Signature=732bc738200d63b79685f3efee907ecb2aef6f68ded0e2d0a7b64aad06013c78&X-Amz-SignedHeaders=host"
+                "url": "https://s3.us-east-1.amazonaws.com/public-assets.bluescape.com/sessions/objects/IjQ19gMfrHfJRxfBL44f/64c9c72c65746741fa4497e7.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYVAQ3ZCQORF7M7HT%2F20230803%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230803T183324Z&X-Amz-Expires=300&X-Amz-Signature=f901edf9611365e5c6e6e2ce270f7fd1345e56c43cfa173db5d2b4ca91ca33e8&X-Amz-SignedHeaders=host"
             },
             "attachments": [],
             "boundingBox": {
@@ -58,7 +58,7 @@
             "pinned": false,
             "preview": {
                 "imageFormat": "jpeg",
-                "url": "https://s3.us-east-1.amazonaws.com/public-assets.bluescape.com/sessions/objects/IjQ19gMfrHfJRxfBL44f/64c9c72c65746741fa4497e7_64ca8d626809f195b261c1e2_thumb.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYVAQ3ZCQORF7M7HT%2F20230802%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230802T184939Z&X-Amz-Expires=300&X-Amz-Signature=3bada25bfa955d3634631c6043f5fa27a8320ad0b8846f48e481ed38cb6a29c5&X-Amz-SignedHeaders=host"
+                "url": "https://s3.us-east-1.amazonaws.com/public-assets.bluescape.com/sessions/objects/IjQ19gMfrHfJRxfBL44f/64c9c72c65746741fa4497e7_64ca8d626809f195b261c1e2_thumb.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYVAQ3ZCQORF7M7HT%2F20230803%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230803T183324Z&X-Amz-Expires=300&X-Amz-Signature=08393bc62c4a116e541be6e69fd1fd661bad50f932e0222147b591cd80863bfa&X-Amz-SignedHeaders=host"
             },
             "reactions": [],
             "title": "Satyadev Moolagani .pdf",

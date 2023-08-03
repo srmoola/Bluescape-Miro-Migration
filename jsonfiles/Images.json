@@ -3,7 +3,7 @@
         {
             "asset": {
                 "imageFormat": "png",
-                "url": "https://s3.us-east-1.amazonaws.com/public-assets.bluescape.com/sessions/objects/IjQ19gMfrHfJRxfBL44f/64ca65b76809f195b261c1a3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYVAQ3ZCQORF7M7HT%2F20230802%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230802T184912Z&X-Amz-Expires=300&X-Amz-Signature=c0af2aba09c6c2dfa2dfdaa9c6eb7bb03fff38cf230728537e775d2a642bb580&X-Amz-SignedHeaders=host"
+                "url": "https://s3.us-east-1.amazonaws.com/public-assets.bluescape.com/sessions/objects/IjQ19gMfrHfJRxfBL44f/64ca65b76809f195b261c1a3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYVAQ3ZCQORF7M7HT%2F20230803%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230803T183324Z&X-Amz-Expires=300&X-Amz-Signature=bdc986e29628ab37d5fd0e8de7935d6717f47fe56e22f1c30615a1d5f0361c5a&X-Amz-SignedHeaders=host"
             },
             "attachments": [],
             "boundingBox": {
@@ -20,7 +20,7 @@
             "pinned": false,
             "preview": {
                 "imageFormat": "png",
-                "url": "https://s3.us-east-1.amazonaws.com/public-assets.bluescape.com/sessions/objects/IjQ19gMfrHfJRxfBL44f/64ca65b76809f195b261c1a3-11.PNG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYVAQ3ZCQORF7M7HT%2F20230802%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230802T184912Z&X-Amz-Expires=300&X-Amz-Signature=88a71c9a83bcb029881e74a12d0fb9bf54c11bb03367f397f658c2f96e62ca25&X-Amz-SignedHeaders=host"
+                "url": "https://s3.us-east-1.amazonaws.com/public-assets.bluescape.com/sessions/objects/IjQ19gMfrHfJRxfBL44f/64ca65b76809f195b261c1a3-11.PNG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYVAQ3ZCQORF7M7HT%2F20230803%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230803T183324Z&X-Amz-Expires=300&X-Amz-Signature=965f1a70c611d0c1ed79537162235b7dfed59bb0ae7f9a387f4e425eb8f75229&X-Amz-SignedHeaders=host"
             },
             "reactions": [],
             "title": "Screenshot 2023-07-23 at 6.10.48 PM.png",
@@ -41,7 +41,7 @@
         {
             "asset": {
                 "imageFormat": "png",
-                "url": "https://s3.us-east-1.amazonaws.com/public-assets.bluescape.com/sessions/objects/IjQ19gMfrHfJRxfBL44f/64ca65b76809f195b261c1a3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYVAQ3ZCQORF7M7HT%2F20230802%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230802T184912Z&X-Amz-Expires=300&X-Amz-Signature=c0af2aba09c6c2dfa2dfdaa9c6eb7bb03fff38cf230728537e775d2a642bb580&X-Amz-SignedHeaders=host"
+                "url": "https://s3.us-east-1.amazonaws.com/public-assets.bluescape.com/sessions/objects/IjQ19gMfrHfJRxfBL44f/64ca65b76809f195b261c1a3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYVAQ3ZCQORF7M7HT%2F20230803%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230803T183324Z&X-Amz-Expires=300&X-Amz-Signature=bdc986e29628ab37d5fd0e8de7935d6717f47fe56e22f1c30615a1d5f0361c5a&X-Amz-SignedHeaders=host"
             },
             "attachments": [],
             "boundingBox": {
@@ -58,7 +58,7 @@
             "pinned": false,
             "preview": {
                 "imageFormat": "png",
-                "url": "https://s3.us-east-1.amazonaws.com/public-assets.bluescape.com/sessions/objects/IjQ19gMfrHfJRxfBL44f/64ca65b76809f195b261c1a3-11.PNG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYVAQ3ZCQORF7M7HT%2F20230802%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230802T184912Z&X-Amz-Expires=300&X-Amz-Signature=88a71c9a83bcb029881e74a12d0fb9bf54c11bb03367f397f658c2f96e62ca25&X-Amz-SignedHeaders=host"
+                "url": "https://s3.us-east-1.amazonaws.com/public-assets.bluescape.com/sessions/objects/IjQ19gMfrHfJRxfBL44f/64ca65b76809f195b261c1a3-11.PNG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAYVAQ3ZCQORF7M7HT%2F20230803%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230803T183324Z&X-Amz-Expires=300&X-Amz-Signature=965f1a70c611d0c1ed79537162235b7dfed59bb0ae7f9a387f4e425eb8f75229&X-Amz-SignedHeaders=host"
             },
             "reactions": [],
             "title": "Screenshot 2023-07-23 at 6.10.48 PM.png",

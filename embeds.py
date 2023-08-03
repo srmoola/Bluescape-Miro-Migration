@@ -31,17 +31,17 @@ def embedReads(miro_workspace_ID, miro_headers, bluescape_workspaceId):
 
     json_response = the_request.json()
 
-    with io.open(
-        os.path.join("jsonfiles", "Embeds.json"), "w", encoding="utf8"
-    ) as outfile:
-        str_ = json.dumps(
-            json_response,
-            indent=4,
-            sort_keys=True,
-            separators=(",", ": "),
-            ensure_ascii=False,
-        )
-        outfile.write((str_))
+    # with io.open(
+    #     os.path.join("jsonfiles", "Embeds.json"), "w", encoding="utf8"
+    # ) as outfile:
+    #     str_ = json.dumps(
+    #         json_response,
+    #         indent=4,
+    #         sort_keys=True,
+    #         separators=(",", ": "),
+    #         ensure_ascii=False,
+    #     )
+    #     outfile.write((str_))
 
     count = 0
     for data in json_response["data"]:

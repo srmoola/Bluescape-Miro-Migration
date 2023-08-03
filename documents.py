@@ -31,17 +31,17 @@ def DocumentReader(
 
     bluescape_json_response = bluescape_the_request.json()
 
-    with io.open(
-        os.path.join("jsonfiles", "Documents.json"), "w", encoding="utf8"
-    ) as outfile:
-        str_ = json.dumps(
-            bluescape_json_response,
-            indent=4,
-            sort_keys=True,
-            separators=(",", ": "),
-            ensure_ascii=False,
-        )
-        outfile.write((str_))
+    # with io.open(
+    #     os.path.join("jsonfiles", "Documents.json"), "w", encoding="utf8"
+    # ) as outfile:
+    #     str_ = json.dumps(
+    #         bluescape_json_response,
+    #         indent=4,
+    #         sort_keys=True,
+    #         separators=(",", ": "),
+    #         ensure_ascii=False,
+    #     )
+    #     outfile.write((str_))
 
     migrationcounter.fileMigrationCounter(
         os.path.join("jsonfiles", "Documents.json"), "FileCounter.txt"

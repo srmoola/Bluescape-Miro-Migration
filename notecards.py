@@ -61,18 +61,6 @@ def NotecardReader(
 
     bluescape_json_response = bluescape_the_request.json()
 
-    with io.open(
-        os.path.join("jsonfiles", "Notecard.json"), "w", encoding="utf8"
-    ) as outfile:
-        str_ = json.dumps(
-            bluescape_json_response,
-            indent=4,
-            sort_keys=True,
-            separators=(",", ": "),
-            ensure_ascii=False,
-        )
-        outfile.write((str_))
-
     count = 0
     for data in bluescape_json_response["data"]:
         count = count + 1
